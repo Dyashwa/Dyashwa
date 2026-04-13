@@ -36,5 +36,5 @@
 ---
 
 ## 📫 Connect with Me
-linkedin:linkedin.com/in/dyashwadamodharan
-email:yashwadamodharan2005@gmail.com
+linkedin: linkedin.com/in/dyashwadamodharan
+email: yashwadamodharan2005@gmail.com
